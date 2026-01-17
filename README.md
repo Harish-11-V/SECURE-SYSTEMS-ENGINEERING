@@ -90,13 +90,17 @@ SECURE-SYSTEMS-ENGINEERING
 ---
 
 ## 🌟 Learning Outcomes
+
 Students will be able to design secure systems, apply cryptographic techniques, and evaluate security mechanisms.
 
 ---
 
 ## 👨‍💻 Author
+
 Harish Kumar V
+
 B.Tech – Artificial Intelligence & Machine Learning
+
 Rajalakshmi Engineering College
 
 ---
